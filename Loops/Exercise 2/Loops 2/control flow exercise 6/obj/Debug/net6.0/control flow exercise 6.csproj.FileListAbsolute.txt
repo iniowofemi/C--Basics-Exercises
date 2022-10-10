@@ -1,0 +1,15 @@
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\control flow exercise 6\control flow exercise 6\obj\Debug\net6.0\control flow exercise 6.csproj.AssemblyReference.cache
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\control flow exercise 6\control flow exercise 6\obj\Debug\net6.0\control flow exercise 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\control flow exercise 6\control flow exercise 6\obj\Debug\net6.0\control flow exercise 6.AssemblyInfoInputs.cache
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\control flow exercise 6\control flow exercise 6\obj\Debug\net6.0\control flow exercise 6.AssemblyInfo.cs
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\control flow exercise 6\control flow exercise 6\obj\Debug\net6.0\control flow exercise 6.csproj.CoreCompileInputs.cache
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\control flow exercise 6\control flow exercise 6\bin\Debug\net6.0\control flow exercise 6.exe
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\control flow exercise 6\control flow exercise 6\bin\Debug\net6.0\control flow exercise 6.deps.json
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\control flow exercise 6\control flow exercise 6\bin\Debug\net6.0\control flow exercise 6.runtimeconfig.json
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\control flow exercise 6\control flow exercise 6\bin\Debug\net6.0\control flow exercise 6.dll
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\control flow exercise 6\control flow exercise 6\bin\Debug\net6.0\control flow exercise 6.pdb
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\control flow exercise 6\control flow exercise 6\obj\Debug\net6.0\control flow exercise 6.dll
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\control flow exercise 6\control flow exercise 6\obj\Debug\net6.0\refint\control flow exercise 6.dll
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\control flow exercise 6\control flow exercise 6\obj\Debug\net6.0\control flow exercise 6.pdb
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\control flow exercise 6\control flow exercise 6\obj\Debug\net6.0\control flow exercise 6.genruntimeconfig.cache
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\control flow exercise 6\control flow exercise 6\obj\Debug\net6.0\ref\control flow exercise 6.dll
