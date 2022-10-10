@@ -1,0 +1,15 @@
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Arrays and Lists Exercises\Arrays and Lists 3\bin\Debug\net6.0\Arrays and Lists 3.exe
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Arrays and Lists Exercises\Arrays and Lists 3\bin\Debug\net6.0\Arrays and Lists 3.deps.json
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Arrays and Lists Exercises\Arrays and Lists 3\bin\Debug\net6.0\Arrays and Lists 3.runtimeconfig.json
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Arrays and Lists Exercises\Arrays and Lists 3\bin\Debug\net6.0\Arrays and Lists 3.dll
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Arrays and Lists Exercises\Arrays and Lists 3\bin\Debug\net6.0\Arrays and Lists 3.pdb
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Arrays and Lists Exercises\Arrays and Lists 3\obj\Debug\net6.0\Arrays and Lists 3.csproj.AssemblyReference.cache
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Arrays and Lists Exercises\Arrays and Lists 3\obj\Debug\net6.0\Arrays and Lists 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Arrays and Lists Exercises\Arrays and Lists 3\obj\Debug\net6.0\Arrays and Lists 3.AssemblyInfoInputs.cache
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Arrays and Lists Exercises\Arrays and Lists 3\obj\Debug\net6.0\Arrays and Lists 3.AssemblyInfo.cs
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Arrays and Lists Exercises\Arrays and Lists 3\obj\Debug\net6.0\Arrays and Lists 3.csproj.CoreCompileInputs.cache
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Arrays and Lists Exercises\Arrays and Lists 3\obj\Debug\net6.0\Arrays and Lists 3.dll
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Arrays and Lists Exercises\Arrays and Lists 3\obj\Debug\net6.0\refint\Arrays and Lists 3.dll
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Arrays and Lists Exercises\Arrays and Lists 3\obj\Debug\net6.0\Arrays and Lists 3.pdb
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Arrays and Lists Exercises\Arrays and Lists 3\obj\Debug\net6.0\Arrays and Lists 3.genruntimeconfig.cache
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Arrays and Lists Exercises\Arrays and Lists 3\obj\Debug\net6.0\ref\Arrays and Lists 3.dll
