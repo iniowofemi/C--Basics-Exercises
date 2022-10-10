@@ -1,0 +1,15 @@
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Loops Exercises\Loops 5.1\obj\Debug\net6.0\Loops 5.1.csproj.AssemblyReference.cache
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Loops Exercises\Loops 5.1\obj\Debug\net6.0\Loops 5.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Loops Exercises\Loops 5.1\obj\Debug\net6.0\Loops 5.1.AssemblyInfoInputs.cache
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Loops Exercises\Loops 5.1\obj\Debug\net6.0\Loops 5.1.AssemblyInfo.cs
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Loops Exercises\Loops 5.1\obj\Debug\net6.0\Loops 5.1.csproj.CoreCompileInputs.cache
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Loops Exercises\Loops 5.1\bin\Debug\net6.0\Loops 5.1.exe
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Loops Exercises\Loops 5.1\bin\Debug\net6.0\Loops 5.1.deps.json
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Loops Exercises\Loops 5.1\bin\Debug\net6.0\Loops 5.1.runtimeconfig.json
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Loops Exercises\Loops 5.1\bin\Debug\net6.0\Loops 5.1.dll
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Loops Exercises\Loops 5.1\bin\Debug\net6.0\Loops 5.1.pdb
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Loops Exercises\Loops 5.1\obj\Debug\net6.0\Loops 5.1.dll
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Loops Exercises\Loops 5.1\obj\Debug\net6.0\refint\Loops 5.1.dll
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Loops Exercises\Loops 5.1\obj\Debug\net6.0\Loops 5.1.pdb
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Loops Exercises\Loops 5.1\obj\Debug\net6.0\Loops 5.1.genruntimeconfig.cache
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\Loops Exercises\Loops 5.1\obj\Debug\net6.0\ref\Loops 5.1.dll
