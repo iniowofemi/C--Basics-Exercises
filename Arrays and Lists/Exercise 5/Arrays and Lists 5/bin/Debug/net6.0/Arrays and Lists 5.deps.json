@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Arrays and Lists 5/1.0.0": {
+        "runtime": {
+          "Arrays and Lists 5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrays and Lists 5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
