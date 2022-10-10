@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>control_flow_exercise_5</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Loops 1.cs" />
+    <Compile Remove="Loops 2.cs" />
+    <Compile Remove="Loops 3.cs" />
+    <Compile Remove="Loops 5.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Loops 1.cs" />
+    <None Include="Loops 2.cs" />
+    <None Include="Loops 3.cs" />
+    <None Include="Loops 5.cs" />
+  </ItemGroup>
+
+</Project>
