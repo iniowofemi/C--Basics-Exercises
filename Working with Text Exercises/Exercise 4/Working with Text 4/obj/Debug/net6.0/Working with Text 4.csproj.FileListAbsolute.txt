@@ -1,0 +1,15 @@
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\4. Working with Text Exercises\Working with Text 4\bin\Debug\net6.0\Working with Text 4.exe
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\4. Working with Text Exercises\Working with Text 4\bin\Debug\net6.0\Working with Text 4.deps.json
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\4. Working with Text Exercises\Working with Text 4\bin\Debug\net6.0\Working with Text 4.runtimeconfig.json
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\4. Working with Text Exercises\Working with Text 4\bin\Debug\net6.0\Working with Text 4.dll
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\4. Working with Text Exercises\Working with Text 4\bin\Debug\net6.0\Working with Text 4.pdb
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\4. Working with Text Exercises\Working with Text 4\obj\Debug\net6.0\Working with Text 4.csproj.AssemblyReference.cache
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\4. Working with Text Exercises\Working with Text 4\obj\Debug\net6.0\Working with Text 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\4. Working with Text Exercises\Working with Text 4\obj\Debug\net6.0\Working with Text 4.AssemblyInfoInputs.cache
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\4. Working with Text Exercises\Working with Text 4\obj\Debug\net6.0\Working with Text 4.AssemblyInfo.cs
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\4. Working with Text Exercises\Working with Text 4\obj\Debug\net6.0\Working with Text 4.csproj.CoreCompileInputs.cache
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\4. Working with Text Exercises\Working with Text 4\obj\Debug\net6.0\Working with Text 4.dll
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\4. Working with Text Exercises\Working with Text 4\obj\Debug\net6.0\refint\Working with Text 4.dll
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\4. Working with Text Exercises\Working with Text 4\obj\Debug\net6.0\Working with Text 4.pdb
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\4. Working with Text Exercises\Working with Text 4\obj\Debug\net6.0\Working with Text 4.genruntimeconfig.cache
+D:\Coding\Udemy Courses\C# Basics for Beginners Learn C# Fundamentals by Coding\All Coding Exercises\4. Working with Text Exercises\Working with Text 4\obj\Debug\net6.0\ref\Working with Text 4.dll
